@@ -8,7 +8,7 @@ import java.util.List;
 
 import static com.evilcorp.utils.ImageUtils.getDistanceBetweenTwoPoints;
 
-public class PixelAgregator {
+public class PixelAggregator {
 
     private static final double PIXEL_DISTANCE = 70;
 
